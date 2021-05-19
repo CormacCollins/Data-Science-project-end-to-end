@@ -1,0 +1,3 @@
+#Don't upload img with server details
+\.png
+\SQL server express.txt
