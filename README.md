@@ -5,4 +5,4 @@ I plan to do an end to end project on this data set, the goal being experience a
 
 The early pipeline of the data is as below:
 
-![Image of Yaktocat](diagram.jpeg)
+![Image of Yaktocat](diagram.jpg)
